@@ -1,0 +1,238 @@
+
+#cf {
+    width: 100%;
+    height: 5302px;
+    /* background: rgb(224, 178, 224); */
+
+}
+#cf .header{
+    width: 100%;
+    height: 81px;
+    /* background: rgb(206, 87, 87); */
+}
+#cf .content{
+    width: 1180px;
+    height: 100%;
+    /* background: rgb(211, 176, 88); */
+    margin: auto;
+}
+#cf .logo1{
+    width: 420px;
+height: 80px;
+float: left;
+background-image: url(../images/images/logo.png);
+}
+#cf .nav{
+width: 540px;
+height: 80px;
+    float: right;
+    /* background: orange; */
+    margin: auto;
+}
+/* ul{
+    width: 224px;
+    height: 16px;
+   float: right;
+   margin-top: 30px;
+} */
+.nav li{
+    width: 40px;
+    /* height: 80px; */
+    /* font-style: none; */
+    float: left;
+   /* border-right: 1px solid black; */
+    margin-left:20px ;
+}
+.nav li a{
+    width: 40px;
+    height: 35px;
+    display: block;
+
+    /* font-size: 12px;
+    color:white;
+    text-align: center;
+    line-height: 80px; */
+    /* float: left; */
+
+}
+#cf .banner {
+    width: 100%;
+    height: 448px;
+    background-image: url(../images/images/56f3527bb57ce.jpg);
+    background-position: center center;
+}
+#cf .main1{
+    width: 100%;
+    height: 605px;
+    /* background: blue; */
+}
+#cf .up{
+    width: 100%;
+    height: 209px;
+    /* background: rgb(214, 214, 136); */
+    overflow: hidden;
+}
+#cf .logo2{
+    width: 242px;
+    height: 44px;
+    background-image: url(../images/images/clien_h2.jpg);
+    margin: auto;
+    margin-top: 40px;
+    /* color: #ffffff; */
+}
+#cf .main1 p{
+    font-size: 20px;
+    /* line-height: 20px; */
+    color: #666666;
+    text-align: center;
+    margin-top: 22px;
+}
+#cf .down{
+    width: 1140px;
+    height: 439px;
+    /* background: rgb(235, 6, 6); */
+    /* float: left; */
+}
+.tu1{
+    width: 1140px;
+    height: 218px;
+    position: relative;
+}
+.tu1 img{
+    padding-right: 20px;
+}
+.list1{
+    position: absolute;
+    top:0px;
+}
+.tu2{
+    width: 1140px;
+    height: 218px;
+    margin-top:3px;
+}
+.tu2 img{
+    padding-right: 20px;
+}
+
+#cf .main2{
+    width: 100%;
+    height: 728px;
+    background:#ebeff1;
+}
+#cf .up2{
+    width: 100%;
+    height: 209px;
+    /* background: blueviolet; */
+    overflow: hidden;
+
+}
+#cf .logo3{
+    width: 242px;
+    height: 44px;
+    background-image: url(../images/images/clien_h2.jpg);
+    margin: auto;
+    margin-top: 40px;
+}
+#cf .main2 p{
+    font-size: 20px;
+    line-height: 20px;
+    /* color: #666666; */
+    text-align: center;
+}
+#cf .down2{
+    width: 1140px;
+    height: 507px;
+    /* background: rgb(52, 150, 163); */
+    /* float: left; */
+}
+.tu11{
+    width: 1140px;
+    height: 167px;
+    margin-top:1px;
+    /* margin: auto; */
+}
+.tu11 img{
+    float: left;
+    padding-right: 1px;
+    border-right: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+}
+.tu22{
+    width: 1140px;
+    height: 167px;
+    margin-top:1px;
+}
+.tu22 img{
+    float: left;
+    padding-right: 1px;
+    border-right: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+}
+.tu33{
+    width: 1140px;
+    height: 167px;
+    margin-top:1px;
+   
+}
+.tu33 img{
+    float: left;
+    padding-right: 1px;
+    border-right: 1px solid darkgray;
+    border-bottom: 1px solid darkgray;
+}
+#cf .main3{
+    width: 100%;
+    height: 678x;
+    /* background:rgb(82, 49, 82); */
+}
+#cf .up3{
+    width: 100%;
+    height: 209px;
+    /* background: mediumspringgreen; */
+    overflow: hidden;
+
+}
+#cf .logo4{
+    width: 176px;
+    height: 44px;
+    background-image: url(../images/images/work_h2.jpg);
+    margin: auto;
+    margin-top: 40px;
+}
+#cf .main3 p{
+    font-size: 20px;
+    line-height: 20px;
+    /* color: #666666; */
+    text-align: center;
+}
+#cf .down3{
+    width: 1140px;
+    height: 507px;
+    /* background: rgb(150, 110, 110); */
+    /* float: left; */
+}
+.tu111{
+    width: 1140px;
+    height: 212px;
+    margin-top:3px;
+    /* margin: auto; */
+}
+.tu111 img{
+    width: 283px;
+    height: 210px;
+    float: left;
+    padding-right: 1px;
+}
+
+.tu222{
+    width: 1140px;
+    height: 212px;
+    margin-top:3px;
+    /* margin: auto; */
+}
+.tu222 img{
+    width: 283px;
+    height: 210px;
+    float: left;
+    padding-right: 1px;
+}
